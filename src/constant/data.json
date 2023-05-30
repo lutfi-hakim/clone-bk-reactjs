@@ -1,0 +1,876 @@
+{
+  "data": {
+    "promo": [
+      {
+        "name": "promo",
+        "image": "https://bkdelivery.co.id/media/landscape_image/2023/5/17/y5vpy4rvgzsttwrriei4bq.jpg"
+      },
+      {
+        "name": "promo",
+        "image": "https://bkdelivery.co.id/media/landscape_image/2023/4/19/6qasxyu9lyrltgr3gzkysf.jpg"
+      },
+      {
+        "name": "promo",
+        "image": "https://bkdelivery.co.id/media/landscape_image/2023/3/7/9upbgojkbfesyzqxpengik.jpg"
+      },
+      {
+        "name": "promo",
+        "image": "https://bkdelivery.co.id/media/landscape_image/2023/1/18/mez28xqf8xytdfzprxx2an.jpg"
+      }
+    ],
+    "cards": [
+      {
+        "id": 0,
+        "name": "King's Chicken [ Rasa Baru ]",
+        "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/5/8/rviaugkwgc6xrrsrsqibqw_product_list.jpg",
+        "data": [
+          {
+            "id": 0,
+            "name": "Tropical Whopper [ Limited Time ]",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/16/wmcrcojuckpvpdhncwumu9_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "BK APP EXCLUSIVE",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/znilxvdnwuyurvfmej3lft_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "King's Chicken [ Rasa Baru ]",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/5/8/rviaugkwgc6xrrsrsqibqw_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Special Menu",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/17/jlgrjvdmpzkf95w96tgaav_product_list.jpg"
+          },
+
+          {
+            "id": 0,
+            "name": "Cheese Burger Favorit",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/kyhwcbzvlkeiqyjncprjjg_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Cheese Whopper®",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/fqzgamlw2jz4evrzf6umus_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Gold Collection",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/16/f8b2q8v78kxbkjxw8cvbbn_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Kids Meal",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/syhbxldehjxkumhbs5yiz9_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Side & Dessert",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/17/gme8tmgzoxr5kdpu8dqivq_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "BEVERAGES",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/5s3jdve3uve4itsndqnqkm_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "KING DEALS ",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/2/8/cckufhpxcf4vaj2yupoouv_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Kupon Mei",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/27/grrntsniymdis5qurcjvqx_product_list.jpg"
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Special Menu",
+        "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/17/jlgrjvdmpzkf95w96tgaav_product_list.jpg",
+        "data": [
+          {
+            "id": 0,
+            "name": "BK APP EXCLUSIVE",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/znilxvdnwuyurvfmej3lft_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Cheese Burger Favorit",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/kyhwcbzvlkeiqyjncprjjg_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Cheese Whopper®",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/fqzgamlw2jz4evrzf6umus_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Gold Collection",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/16/f8b2q8v78kxbkjxw8cvbbn_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Kids Meal",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/syhbxldehjxkumhbs5yiz9_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Side & Dessert",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/17/gme8tmgzoxr5kdpu8dqivq_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "BEVERAGES",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/5s3jdve3uve4itsndqnqkm_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "KING DEALS ",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/2/8/cckufhpxcf4vaj2yupoouv_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Kupon Mei",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/27/grrntsniymdis5qurcjvqx_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "King's Chicken [ Rasa Baru ]",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/5/8/rviaugkwgc6xrrsrsqibqw_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Special Menu",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/17/jlgrjvdmpzkf95w96tgaav_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Tropical Whopper [ Limited Time ]",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/16/wmcrcojuckpvpdhncwumu9_product_list.jpg"
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Tropical Whopper [ Limited Time ]",
+        "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/16/wmcrcojuckpvpdhncwumu9_product_list.jpg",
+        "data": [
+          {
+            "id": 0,
+            "name": "BEVERAGES",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/5s3jdve3uve4itsndqnqkm_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "KING DEALS ",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/2/8/cckufhpxcf4vaj2yupoouv_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "BK APP EXCLUSIVE",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/znilxvdnwuyurvfmej3lft_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Cheese Burger Favorit",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/kyhwcbzvlkeiqyjncprjjg_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Cheese Whopper®",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/fqzgamlw2jz4evrzf6umus_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "King's Chicken [ Rasa Baru ]",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/5/8/rviaugkwgc6xrrsrsqibqw_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Special Menu",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/17/jlgrjvdmpzkf95w96tgaav_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Tropical Whopper [ Limited Time ]",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/16/wmcrcojuckpvpdhncwumu9_product_list.jpg"
+          },
+
+          {
+            "id": 0,
+            "name": "Gold Collection",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/16/f8b2q8v78kxbkjxw8cvbbn_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Kids Meal",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/syhbxldehjxkumhbs5yiz9_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Side & Dessert",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/17/gme8tmgzoxr5kdpu8dqivq_product_list.jpg"
+          },
+
+          {
+            "id": 0,
+            "name": "Kupon Mei",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/27/grrntsniymdis5qurcjvqx_product_list.jpg"
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "name": "BK APP EXCLUSIVE",
+        "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/znilxvdnwuyurvfmej3lft_product_list.jpg",
+        "data": [
+          {
+            "id": 0,
+            "name": "Side & Dessert",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/17/gme8tmgzoxr5kdpu8dqivq_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "BEVERAGES",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/5s3jdve3uve4itsndqnqkm_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "King's Chicken [ Rasa Baru ]",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/5/8/rviaugkwgc6xrrsrsqibqw_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Special Menu",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/17/jlgrjvdmpzkf95w96tgaav_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Tropical Whopper [ Limited Time ]",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/16/wmcrcojuckpvpdhncwumu9_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "BK APP EXCLUSIVE",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/znilxvdnwuyurvfmej3lft_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Cheese Burger Favorit",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/kyhwcbzvlkeiqyjncprjjg_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Cheese Whopper®",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/fqzgamlw2jz4evrzf6umus_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Gold Collection",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/16/f8b2q8v78kxbkjxw8cvbbn_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Kids Meal",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/syhbxldehjxkumhbs5yiz9_product_list.jpg"
+          },
+
+          {
+            "id": 0,
+            "name": "KING DEALS ",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/2/8/cckufhpxcf4vaj2yupoouv_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Kupon Mei",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/27/grrntsniymdis5qurcjvqx_product_list.jpg"
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Cheese Burger Favorit",
+        "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/kyhwcbzvlkeiqyjncprjjg_product_list.jpg",
+        "data": [
+          {
+            "id": 0,
+            "name": "Side & Dessert",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/17/gme8tmgzoxr5kdpu8dqivq_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "BEVERAGES",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/5s3jdve3uve4itsndqnqkm_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "KING DEALS ",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/2/8/cckufhpxcf4vaj2yupoouv_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "King's Chicken [ Rasa Baru ]",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/5/8/rviaugkwgc6xrrsrsqibqw_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Special Menu",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/17/jlgrjvdmpzkf95w96tgaav_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Tropical Whopper [ Limited Time ]",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/16/wmcrcojuckpvpdhncwumu9_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "BK APP EXCLUSIVE",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/znilxvdnwuyurvfmej3lft_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Cheese Burger Favorit",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/kyhwcbzvlkeiqyjncprjjg_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Cheese Whopper®",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/fqzgamlw2jz4evrzf6umus_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Gold Collection",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/16/f8b2q8v78kxbkjxw8cvbbn_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Kids Meal",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/syhbxldehjxkumhbs5yiz9_product_list.jpg"
+          },
+
+          {
+            "id": 0,
+            "name": "Kupon Mei",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/27/grrntsniymdis5qurcjvqx_product_list.jpg"
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Cheese Whopper®",
+        "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/fqzgamlw2jz4evrzf6umus_product_list.jpg",
+        "data": [
+          {
+            "id": 0,
+            "name": "King's Chicken [ Rasa Baru ]",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/5/8/rviaugkwgc6xrrsrsqibqw_product_list.jpg"
+          },
+
+          {
+            "id": 0,
+            "name": "Cheese Burger Favorit",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/kyhwcbzvlkeiqyjncprjjg_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Cheese Whopper®",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/fqzgamlw2jz4evrzf6umus_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Gold Collection",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/16/f8b2q8v78kxbkjxw8cvbbn_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Kids Meal",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/syhbxldehjxkumhbs5yiz9_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Side & Dessert",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/17/gme8tmgzoxr5kdpu8dqivq_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "BEVERAGES",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/5s3jdve3uve4itsndqnqkm_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "KING DEALS ",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/2/8/cckufhpxcf4vaj2yupoouv_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Kupon Mei",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/27/grrntsniymdis5qurcjvqx_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Special Menu",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/17/jlgrjvdmpzkf95w96tgaav_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Tropical Whopper [ Limited Time ]",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/16/wmcrcojuckpvpdhncwumu9_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "BK APP EXCLUSIVE",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/znilxvdnwuyurvfmej3lft_product_list.jpg"
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Gold Collection",
+        "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/16/f8b2q8v78kxbkjxw8cvbbn_product_list.jpg",
+        "data": [
+          {
+            "id": 0,
+            "name": "Kids Meal",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/syhbxldehjxkumhbs5yiz9_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Side & Dessert",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/17/gme8tmgzoxr5kdpu8dqivq_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "King's Chicken [ Rasa Baru ]",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/5/8/rviaugkwgc6xrrsrsqibqw_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Special Menu",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/17/jlgrjvdmpzkf95w96tgaav_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Tropical Whopper [ Limited Time ]",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/16/wmcrcojuckpvpdhncwumu9_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "BK APP EXCLUSIVE",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/znilxvdnwuyurvfmej3lft_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Cheese Burger Favorit",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/kyhwcbzvlkeiqyjncprjjg_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Cheese Whopper®",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/fqzgamlw2jz4evrzf6umus_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Gold Collection",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/16/f8b2q8v78kxbkjxw8cvbbn_product_list.jpg"
+          },
+
+          {
+            "id": 0,
+            "name": "BEVERAGES",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/5s3jdve3uve4itsndqnqkm_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "KING DEALS ",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/2/8/cckufhpxcf4vaj2yupoouv_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Kupon Mei",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/27/grrntsniymdis5qurcjvqx_product_list.jpg"
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Kids Meal",
+        "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/syhbxldehjxkumhbs5yiz9_product_list.jpg",
+        "data": [
+          {
+            "id": 0,
+            "name": "Kids Meal",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/syhbxldehjxkumhbs5yiz9_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Side & Dessert",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/17/gme8tmgzoxr5kdpu8dqivq_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "King's Chicken [ Rasa Baru ]",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/5/8/rviaugkwgc6xrrsrsqibqw_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Special Menu",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/17/jlgrjvdmpzkf95w96tgaav_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Tropical Whopper [ Limited Time ]",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/16/wmcrcojuckpvpdhncwumu9_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "BK APP EXCLUSIVE",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/znilxvdnwuyurvfmej3lft_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Cheese Burger Favorit",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/kyhwcbzvlkeiqyjncprjjg_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Cheese Whopper®",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/fqzgamlw2jz4evrzf6umus_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Gold Collection",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/16/f8b2q8v78kxbkjxw8cvbbn_product_list.jpg"
+          },
+
+          {
+            "id": 0,
+            "name": "BEVERAGES",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/5s3jdve3uve4itsndqnqkm_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "KING DEALS ",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/2/8/cckufhpxcf4vaj2yupoouv_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Kupon Mei",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/27/grrntsniymdis5qurcjvqx_product_list.jpg"
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Side & Dessert",
+        "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/17/gme8tmgzoxr5kdpu8dqivq_product_list.jpg",
+        "data": [
+          {
+            "id": 0,
+            "name": "Cheese Burger Favorit",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/kyhwcbzvlkeiqyjncprjjg_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Cheese Whopper®",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/fqzgamlw2jz4evrzf6umus_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "King's Chicken [ Rasa Baru ]",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/5/8/rviaugkwgc6xrrsrsqibqw_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Special Menu",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/17/jlgrjvdmpzkf95w96tgaav_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Tropical Whopper [ Limited Time ]",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/16/wmcrcojuckpvpdhncwumu9_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "BK APP EXCLUSIVE",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/znilxvdnwuyurvfmej3lft_product_list.jpg"
+          },
+
+          {
+            "id": 0,
+            "name": "Gold Collection",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/16/f8b2q8v78kxbkjxw8cvbbn_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Kids Meal",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/syhbxldehjxkumhbs5yiz9_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Side & Dessert",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/17/gme8tmgzoxr5kdpu8dqivq_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "BEVERAGES",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/5s3jdve3uve4itsndqnqkm_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "KING DEALS ",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/2/8/cckufhpxcf4vaj2yupoouv_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Kupon Mei",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/27/grrntsniymdis5qurcjvqx_product_list.jpg"
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "name": "BEVERAGES",
+        "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/5s3jdve3uve4itsndqnqkm_product_list.jpg",
+        "data": [
+          {
+            "id": 0,
+            "name": "Cheese Burger Favorit",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/kyhwcbzvlkeiqyjncprjjg_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Cheese Whopper®",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/fqzgamlw2jz4evrzf6umus_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "King's Chicken [ Rasa Baru ]",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/5/8/rviaugkwgc6xrrsrsqibqw_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Special Menu",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/17/jlgrjvdmpzkf95w96tgaav_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Tropical Whopper [ Limited Time ]",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/16/wmcrcojuckpvpdhncwumu9_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "BK APP EXCLUSIVE",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/znilxvdnwuyurvfmej3lft_product_list.jpg"
+          },
+
+          {
+            "id": 0,
+            "name": "Gold Collection",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/16/f8b2q8v78kxbkjxw8cvbbn_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Kids Meal",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/syhbxldehjxkumhbs5yiz9_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Side & Dessert",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/17/gme8tmgzoxr5kdpu8dqivq_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "BEVERAGES",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/5s3jdve3uve4itsndqnqkm_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "KING DEALS ",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/2/8/cckufhpxcf4vaj2yupoouv_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Kupon Mei",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/27/grrntsniymdis5qurcjvqx_product_list.jpg"
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "name": "KING DEALS ",
+        "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/2/8/cckufhpxcf4vaj2yupoouv_product_list.jpg",
+        "data": [
+          {
+            "id": 0,
+            "name": "Tropical Whopper [ Limited Time ]",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/16/wmcrcojuckpvpdhncwumu9_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "BK APP EXCLUSIVE",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/znilxvdnwuyurvfmej3lft_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "King's Chicken [ Rasa Baru ]",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/5/8/rviaugkwgc6xrrsrsqibqw_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Special Menu",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/17/jlgrjvdmpzkf95w96tgaav_product_list.jpg"
+          },
+
+          {
+            "id": 0,
+            "name": "Cheese Burger Favorit",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/kyhwcbzvlkeiqyjncprjjg_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Cheese Whopper®",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/fqzgamlw2jz4evrzf6umus_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Gold Collection",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/16/f8b2q8v78kxbkjxw8cvbbn_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Kids Meal",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/syhbxldehjxkumhbs5yiz9_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Side & Dessert",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/17/gme8tmgzoxr5kdpu8dqivq_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "BEVERAGES",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/5s3jdve3uve4itsndqnqkm_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "KING DEALS ",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/2/8/cckufhpxcf4vaj2yupoouv_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Kupon Mei",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/27/grrntsniymdis5qurcjvqx_product_list.jpg"
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Kupon Mei",
+        "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/27/grrntsniymdis5qurcjvqx_product_list.jpg",
+        "data": [
+          {
+            "id": 0,
+            "name": "Kupon Mei",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/27/grrntsniymdis5qurcjvqx_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "King's Chicken [ Rasa Baru ]",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/5/8/rviaugkwgc6xrrsrsqibqw_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Special Menu",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/17/jlgrjvdmpzkf95w96tgaav_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Tropical Whopper [ Limited Time ]",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/16/wmcrcojuckpvpdhncwumu9_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "BK APP EXCLUSIVE",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/znilxvdnwuyurvfmej3lft_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Cheese Burger Favorit",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/kyhwcbzvlkeiqyjncprjjg_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Cheese Whopper®",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/fqzgamlw2jz4evrzf6umus_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Gold Collection",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/16/f8b2q8v78kxbkjxw8cvbbn_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Kids Meal",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/syhbxldehjxkumhbs5yiz9_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "Side & Dessert",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/17/gme8tmgzoxr5kdpu8dqivq_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "BEVERAGES",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/3/15/5s3jdve3uve4itsndqnqkm_product_list.jpg"
+          },
+          {
+            "id": 0,
+            "name": "KING DEALS ",
+            "image": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/2/8/cckufhpxcf4vaj2yupoouv_product_list.jpg"
+          }
+        ]
+      }
+    ],
+    "slider": [
+      {
+        "id": 0,
+        "name": "satu",
+        "image": "https://bkdelivery.co.id/media/slider_image/2023/4/19/bvj4mbaadh2d9v3ysphdep.jpg"
+      },
+      {
+        "id": 0,
+        "name": "satu",
+        "image": "https://bkdelivery.co.id/media/slider_image/2023/3/24/rqt2utswzk5pnnnjpbe5mc.jpg"
+      },
+      {
+        "id": 0,
+        "name": "satu",
+        "image": "https://bkdelivery.co.id/media/slider_image/2023/3/15/3u7gvmjhgbjiuhpfaypocr.jpg"
+      },
+      {
+        "id": 0,
+        "name": "satu",
+        "image": "https://bkdelivery.co.id/media/slider_image/2023/3/17/qynkz9qeqbjjlvaoh4afgz.jpg"
+      },
+      {
+        "id": 0,
+        "name": "satu",
+        "image": "https://bkdelivery.co.id/media/slider_image/2023/5/15/8wjfofeq3vtqmpshlrw3h2.jpg"
+      },
+      {
+        "id": 0,
+        "name": "satu",
+        "image": "https://bkdelivery.co.id/media/slider_image/2023/4/11/thdwthzgzwu7notfqr5xnc.jpg"
+      },
+      {
+        "id": 0,
+        "name": "satu",
+        "image": "https://bkdelivery.co.id/media/slider_image/2023/5/15/8wjfofeq3vtqmpshlrw3h2.jpg"
+      }
+    ]
+  }
+}

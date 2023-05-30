@@ -1,0 +1,48 @@
+:where(.css-dev-only-do-not-override-w8mnev).ant-carousel
+  .slick-dots
+  li
+  button {
+  position: relative;
+  display: block;
+  width: 10px;
+  height: 10px;
+  margin-top: 40px;
+  padding: 0;
+//   color: #ed7801;
+  font-size: 0;
+  background: #ed7801;
+  border: 0;
+  border-radius: 100px;
+  outline: none;
+  cursor: pointer;
+  opacity: 0.3;
+  transition: all 0.3s;
+}
+
+:where(.css-dev-only-do-not-override-w8mnev).ant-carousel
+  .slick-dots
+  li
+  button::after {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  inset: -4px;
+  content: "";
+  background: #ed7801;
+//   color: #ed7801;
+  margin: 4px;
+  border-radius: 100px;
+}
+
+.menus {
+  width: 85%;
+  margin: 60px auto;
+  font-family: "Flame";
+  color: #8b542f;
+  font-weight: normal;
+  p {
+    text-align: center;
+    font-size: 32px;
+    margin: 20px;
+  }
+}

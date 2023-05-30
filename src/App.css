@@ -1,8 +1,133 @@
-.App {
-  text-align: center;
+@import url(//db.onlinewebfonts.com/c/565a681be0eb6f1d92c6bc57c629ea35?family=Flame);
+
+:where(.css-dev-only-do-not-override-w8mnev).ant-popover .ant-popover-inner {
+  background-color: #ffffff;
+  background-clip: padding-box;
+  border-radius: 8px;
+  box-shadow: 0 6px 16px 0 rgba(0, 0, 0, 0.08), 0 3px 6px -4px rgba(0, 0, 0, 0.12), 0 9px 28px 8px rgba(0, 0, 0, 0.05);
+  padding: 20px;
+  width: 400px;
+  height: 200px;
 }
 
-.App-logo {
+.container {
+  width: 1200px;
+  margin: auto;
+}
+
+.container-content {
+  width: 950px;
+  margin: auto;
+}
+
+.bg-app {
+  /* text-align: center; */
+  background-image: url(https://bkdelivery.co.id/static/website/img/BK_bg.jpg?5218847fa211);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  width: 100%;
+  position: relative;
+  /* padding-top: 85px; */
+}
+
+.nav-bk {
+  background: #2d2d2d;
+  height: 80px;
+  box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.5);
+}
+.nav-bk .men {
+  position: relative;
+  z-index: 1;
+}
+.nav-bk .men .jus-aut {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: relative;
+  align-items: center;
+}
+.nav-bk .men .jus-aut .left {
+  /* width: 100%; */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: relative;
+  align-items: center;
+}
+
+.nav-bk .men .logo-bk {
+  margin-top: 10px;
+  margin-right: 35px;
+  width: 90px;
+  height: 90px;
+  z-index: 1000;
+  left: -125px;
+}
+
+.nav-bk .men .menu-bk a {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  margin-right: 20px;
+  margin-top: -18px;
+  text-decoration: none;
+}
+
+.nav-bk .men .menu-bk .menu-bk-top {
+  display: block;
+  font-size: 13px;
+  color: #faaf18;
+  font-family: "Flame";
+}
+
+.nav-bk .men .menu-bk .menu-bk-bt {
+  font-size: 25px;
+  color: #fff;
+  font-weight: 900;
+  font-family: "Flame";
+}
+
+a.btn-cart{
+  font: 16px/22px "Flame";
+  padding: 10px;
+  background-color: #ed7801;
+  width: 90%;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+  font-weight: 600;
+  margin: 20px 0;
+  position: absolute;
+  bottom: 0;
+}
+
+.nav-bk .men .menu-bk .menu-bk-bt img{
+  cursor: pointer;
+}
+
+.nav-bk .men .jus-aut .right {
+  /* width: 100%; */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: relative;
+  align-items: center;
+  gap: 50px;
+  margin-top: -20px;
+}
+
+.nav-bk .men .jus-aut .right .menu-bk-bt {
+  font-size: 20px;
+  color: #fff;
+  font-weight: 900;
+  font-family: "Flame";
+}
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +160,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.login {
+  margin-top: 30px;
+  background: #F9F4F2;
+  height: 100vh;
+  .login-form {
+    width: 480px;
+    margin: auto;
+    padding: 32px;
+    border-radius: 8px;
+    background-color: #ffffff;
+    box-shadow: 2px 4px 8px #6b728040;
+    text-align: center;
+
+    .header {
+      margin-bottom: 48px;
+      h1 {
+        text-align: center;
+        color: #8b542f;
+        font-weight: 500;
+        font-family: "Flame";
+        text-transform: capitalize;
+        margin: 0px 0px 35px;
+      }
+      p {
+        display: block;
+        color: #404040;
+        text-transform: none;
+
+        margin: -10px 0px;
+      }
+    }
+
+    .input {
+      position: relative;
+      margin-bottom: 5px;
+    }
+
+    .input input {
+      font-size: 16px;
+      font-weight: 600;
+      width: 100%;
+      padding: 10px 15px;
+      margin-bottom: 10px;
+      border: 1px solid #e0e0e0;
+      border-radius: 5px;
+      color: #636363;
+      box-sizing: border-box;
+    }
+
+    .input input::placeholder {
+      color: #919191;
+      font-weight: 500;
+    }
+
+    .login-btn {
+      font: 18px/22px "Flame";
+      padding: 10px;
+      background-color: #ed7801;
+      width: 100%;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    .login-btn:active {
+      background-color: #4f46e5;
+      transition: all 0.3s ease;
+    }
+
+    a {
+      color: #6366f1;
+      text-decoration: none;
+    }
+  }
+}
